@@ -1,0 +1,378 @@
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.5.30)  13 AUG 2012 12:55
+entering extended mode
+**hci_globe.tex
+
+(C:\Users\usuario\Dropbox\ifgi\MscGeoinformatics\semester2\PhysicalComputing\fi
+nalProject\report\hci_globe.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2009-06-19, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, lao, latin, lat
+vian, lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerm
+an, ngerman-x-2009-06-19, nynorsk, oriya, panjabi, pinyin, polish, portuguese, 
+romanian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swis
+sgerman, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, u
+senglishmax, welsh, loaded.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\size12.clo"
+File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count87
+\Gm@cntv=\count88
+\c@Gm@tempcnt=\count89
+\Gm@bindingoffset=\dimen103
+\Gm@wd@mp=\dimen104
+\Gm@odd@mp=\dimen105
+\Gm@even@mp=\dimen106
+\Gm@layoutwidth=\dimen107
+\Gm@layoutheight=\dimen108
+\Gm@layouthoffset=\dimen109
+\Gm@layoutvoffset=\dimen110
+\Gm@dimlist=\toks15
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\listings.sty"
+\lst@mode=\count90
+\lst@gtempboxa=\box26
+\lst@token=\toks16
+\lst@length=\count91
+\lst@currlwidth=\dimen111
+\lst@column=\count92
+\lst@pos=\count93
+\lst@lostspace=\dimen112
+\lst@width=\dimen113
+\lst@newlines=\count94
+\lst@lineno=\count95
+\lst@maxwidth=\dimen114
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\lstmisc.sty"
+File: lstmisc.sty 2007/02/22 1.4 (Carsten Heinz)
+\c@lstnumber=\count96
+\lst@skipnumbers=\count97
+\lst@framebox=\box27
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\listings.cfg"
+File: listings.cfg 2007/02/22 1.4 listings configuration
+))
+Package: listings 2007/02/22 1.4 (Carsten Heinz)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\epsfig.sty"
+Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count98
+))
+\Gin@req@height=\dimen115
+\Gin@req@width=\dimen116
+)
+\epsfxsize=\dimen117
+\epsfysize=\dimen118
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ltxmisc\url.sty"
+\Urlmuskip=\muskip10
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\wrapfig\wrapfig.sty"
+\wrapoverhang=\dimen119
+\WF@size=\dimen120
+\c@WF@wrappedlines=\count99
+\WF@box=\box28
+\WF@everypar=\toks17
+Package: wrapfig 2003/01/31  v 3.6
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\mdwtools\mdwlist.sty"
+Package: mdwlist 1996/05/02 1.1 Various list-related things
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\color.sty"
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count100
+\float@exts=\toks18
+\float@box=\box29
+\@float@everytoks=\toks19
+\@floatcapt=\box30
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\eurosym\eurosym.sty"
+Package: eurosym 1998/08/06 v1.1 European currency symbol ``Euro''
+\@eurobox=\box31
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\verbatim.sty"
+Package: verbatim 2003/08/22 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks20
+\verbatim@line=\toks21
+\verbatim@in@stream=\read1
+)
+(C:\Users\usuario\Dropbox\ifgi\MscGeoinformatics\semester2\PhysicalComputing\fi
+nalProject\report\hci_globe.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(128.0374pt, 386.67296pt, 99.58464pt)
+* v-part:(T,H,B)=(71.13188pt, 652.70622pt, 71.13188pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=386.67296pt
+* \textheight=652.70622pt
+* \oddsidemargin=55.76741pt
+* \evensidemargin=55.76741pt
+* \topmargin=-38.1381pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\c@lstlisting=\count101
+("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count102
+\scratchdimen=\dimen121
+\scratchbox=\box32
+\nofMPsegments=\count103
+\nofMParguments=\count104
+\everyMPshowfont=\toks22
+\MPscratchCnt=\count105
+\MPscratchDim=\dimen122
+\MPnumerator=\count106
+\makeMPintoPDFobject=\count107
+\everyMPtoPDFconversion=\toks23
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 57.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 57.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 68.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 68.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 68.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 68.
+ <mouse_sensor-eps-converted-to.pdf, id=1, 2642.87375pt x 2181.14874pt>
+File: mouse_sensor-eps-converted-to.pdf Graphic file (type pdf)
+
+<use mouse_sensor-eps-converted-to.pdf>
+Package pdftex.def Info: mouse_sensor-eps-converted-to.pdf used on input line 7
+2.
+(pdftex.def)             Requested size: 264.30286pt x 218.12766pt.
+ [1
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
+<prototype1-eps-converted-to.pdf, id=11, 2203.23125pt x 1712.3975pt>
+File: prototype1-eps-converted-to.pdf Graphic file (type pdf)
+
+<use prototype1-eps-converted-to.pdf>
+Package pdftex.def Info: prototype1-eps-converted-to.pdf used on input line 81.
+
+(pdftex.def)             Requested size: 220.33603pt x 171.24977pt.
+
+<prototype2-eps-converted-to.pdf, id=12, 2867.71375pt x 2060.69875pt>
+File: prototype2-eps-converted-to.pdf Graphic file (type pdf)
+
+<use prototype2-eps-converted-to.pdf>
+Package pdftex.def Info: prototype2-eps-converted-to.pdf used on input line 88.
+
+(pdftex.def)             Requested size: 286.78818pt x 206.08194pt.
+ [2 <C:/Users/usuario/Dropbox/ifgi/MscGeoinformatics/semester2/PhysicalComputin
+g/finalProject/report/mouse_sensor-eps-converted-to.pdf> <C:/Users/usuario/Drop
+box/ifgi/MscGeoinformatics/semester2/PhysicalComputing/finalProject/report/prot
+otype1-eps-converted-to.pdf>]
+<prototype4-eps-converted-to.pdf, id=25, 3277.24374pt x 2458.18375pt>
+File: prototype4-eps-converted-to.pdf Graphic file (type pdf)
+
+<use prototype4-eps-converted-to.pdf>
+Package pdftex.def Info: prototype4-eps-converted-to.pdf used on input line 97.
+
+(pdftex.def)             Requested size: 278.58704pt x 208.96161pt.
+
+<prototype3-eps-converted-to.pdf, id=26, 3265.19875pt x 2225.31375pt>
+File: prototype3-eps-converted-to.pdf Graphic file (type pdf)
+
+<use prototype3-eps-converted-to.pdf>
+Package pdftex.def Info: prototype3-eps-converted-to.pdf used on input line 104
+.
+(pdftex.def)             Requested size: 277.56314pt x 189.16614pt.
+ [3 <C:/Users/usuario/Dropbox/ifgi/MscGeoinformatics/semester2/PhysicalComputin
+g/finalProject/report/prototype2-eps-converted-to.pdf> <C:/Users/usuario/Dropbo
+x/ifgi/MscGeoinformatics/semester2/PhysicalComputing/finalProject/report/protot
+ype4-eps-converted-to.pdf>]
+<final-eps-converted-to.pdf, id=36, 2935.96875pt x 2132.96875pt>
+File: final-eps-converted-to.pdf Graphic file (type pdf)
+
+<use final-eps-converted-to.pdf>
+Package pdftex.def Info: final-eps-converted-to.pdf used on input line 113.
+(pdftex.def)             Requested size: 293.61407pt x 213.30937pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 121--125
+
+ []
+
+[4 <C:/Users/usuario/Dropbox/ifgi/MscGeoinformatics/semester2/PhysicalComputing
+/finalProject/report/prototype3-eps-converted-to.pdf> <C:/Users/usuario/Dropbox
+/ifgi/MscGeoinformatics/semester2/PhysicalComputing/finalProject/report/final-e
+ps-converted-to.pdf>] [5]
+Overfull \hbox (25.58296pt too wide) in paragraph at lines 207--207
+[]\OT1/cmtt/m/n/8 float googleEarthEyeAltKms = 2999.28;//Google Eath's Eye Alt 
+in Kms - see GE's lower right corner[] 
+ []
+
+
+Overfull \hbox (42.5832pt too wide) in paragraph at lines 213--213
+[]    \OT1/cmtt/m/n/8 myPort = new Serial(this,Serial.list()[portIndex], 38400)
+;    //Check the baudio values(i.e 9600)[] 
+ []
+
+[6] [7]
+Overfull \hbox (34.08308pt too wide) in paragraph at lines 306--306
+[]\OT1/cmtt/m/n/8 int rotatingTime(float googleEarthEyeAltKms, float teddyBallR
+adiusCms, float teddyBallDistanceCms){[] 
+ []
+
+
+Overfull \hbox (38.33315pt too wide) in paragraph at lines 308--308
+[]  \OT1/cmtt/m/n/8 float geEyeAlt = googleEarthEyeAltKms;//Google Eath's Eye A
+lt in Kms - see GE's lower right corner[] 
+ []
+
+
+Overfull \hbox (89.33388pt too wide) in paragraph at lines 313--313
+[]  \OT1/cmtt/m/n/8 float geCompleteTurn = (-4.841 * log(geEyeAlt)) + 58.222;//
+ Time (seconds) for a complete turn of google earth[] 
+ []
+
+
+Overfull \hbox (59.58345pt too wide) in paragraph at lines 314--314
+[]  \OT1/cmtt/m/n/8 float t = tBallA *geCompleteTurn / 360;// Key pres time (se
+cs) for moving GE in the same angle as tBall[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 327--329
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 331--334
+
+ []
+
+No file hci_globe.bbl.
+[8]
+(C:\Users\usuario\Dropbox\ifgi\MscGeoinformatics\semester2\PhysicalComputing\fi
+nalProject\report\hci_globe.aux) ) 
+Here is how much of TeX's memory you used:
+ 3258 strings out of 494045
+ 47229 string characters out of 3145963
+ 115144 words of memory out of 3000000
+ 6525 multiletter control sequences out of 15000+200000
+ 9301 words of font info for 34 fonts, out of 3000000 for 9000
+ 715 hyphenation exceptions out of 8191
+ 34i,8n,32p,854b,287s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/type
+1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/
+public/amsfonts/cm/cmr12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/pub
+lic/amsfonts/cm/cmr17.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public
+/amsfonts/cm/cmr7.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/ams
+fonts/cm/cmr8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfont
+s/cm/cmti12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/
+cm/cmtt10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
+/cmtt8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/eurosym/feymr1
+0.pfb>
+Output written on hci_globe.pdf (8 pages, 2928506 bytes).
+PDF statistics:
+ 89 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 31 words of extra memory for PDF output out of 10000 (max. 10000000)
+
